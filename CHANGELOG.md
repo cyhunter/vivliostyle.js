@@ -6,6 +6,7 @@
 - [core] Support page background and document canvas background color 
   - <https://github.com/vivliostyle/vivliostyle.js/pull/33>
   - Node: only simple background color is supported.
+- [core] Chrome PDF output now respects the correct page size even if the page size is 'auto'
 
 ### Fixed
 - [core] Avoid incorrect margin collapse of the page area
